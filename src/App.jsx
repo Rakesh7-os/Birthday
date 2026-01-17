@@ -2,7 +2,7 @@ import { gsap } from "gsap";
 import { ScrollToPlugin } from "gsap/ScrollToPlugin";
 import { useRef, useState } from "react";
 import "./App.css";
-import CelebrationPage from "./components/celebrationpage";
+import CelebrationPage from "./components/Celebrationpage";
 import Countdown from "./components/Countdown";
 import Effects from "./components/Effects";
 import Gallery from "./components/Gallery";
