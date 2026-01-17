@@ -1,6 +1,6 @@
 import { gsap } from "gsap";
 import { useEffect, useRef, useState } from "react";
-import Confetti from "./confetti";
+import Confetti from "./Confetti";
 import "./MessageCard.css";
 
 function MessageCard({ isActive }) {
